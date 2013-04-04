@@ -7,3 +7,5 @@ The *Templates* subdirectory contains sample game templates that can be easily c
 1.  **MatchGame.capx** is a drag-and-drop timed matching game through which short text strings are dropped on up to 15 images.
 
 2.  **WhackARodent.capx** is a take off of the popular arcade game in which the objective is to tap 'rodents' as they appear randomly on the board. The rodents quickly disappear, and the game concludes when the player has missed *n* rodents.
+
+3.  **SoundBoardTemplate.capx** displays a 2x3 grid of images, which when tapped will play a corresponding sound. Pagination is built-in, so you can add additional images (and sounds) beyond the six that are displayed at a given time. 
