@@ -9,3 +9,5 @@ The *Templates* subdirectory contains sample game templates that can be easily c
 2.  **WhackARodent.capx** is a take off of the popular arcade game in which the objective is to tap 'rodents' as they appear randomly on the board. The rodents quickly disappear, and the game concludes when the player has missed *n* rodents.
 
 3.  **SoundBoardTemplate.capx** displays a 2x3 grid of images, which when tapped will play a corresponding sound. Pagination is built-in, so you can add additional images (and sounds) beyond the six that are displayed at a given time. 
+
+4.  **EightFacts.capx* is a simple educational app template for which you provide a theme that has eight interesting facts. You supply an image, a short fact title and a fact narrative (the latter two in an XML file that's part of the project).
