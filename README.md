@@ -12,4 +12,6 @@ The *Templates* subdirectory contains sample game templates that can be easily c
 
 4.  **EightFacts.capx** is a simple educational app template for which you provide a theme that has eight interesting facts. You supply an image, a short fact title and a fact narrative (the latter two in an XML file that's part of the project).
 
-4.  **Shooter.capx** is a simple shooter app template, it is a side scroller with the enemies appearing from the right and attacking the player on the left. The player can move and shoot down the enemies to gain score. Health is lost for each enemy not destroyed and for each collision with an enemy. The game ends when the player runs out of lives.
+5.  **Shooter.capx** is a simple shooter app template, it is a side scroller with the enemies appearing from the right and attacking the player on the left. The player can move and shoot down the enemies to gain score. Health is lost for each enemy not destroyed and for each collision with an enemy. The game ends when the player runs out of lives.
+
+6.  **FeedTheCritter.capx** is a kid's game in which you direct the 'critter' to 'food' that randomly appears on the screen.  The objective is to collect as much as possible before time runs out.
